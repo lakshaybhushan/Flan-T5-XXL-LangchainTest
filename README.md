@@ -1,4 +1,4 @@
-<h2 align="center"> Testing Google's Flan-T5-XXL Model</h2>
+<h2 align="center"> Testing Google's Flan-T5-XXL Model On HuggingFace</h2>
 
 <p align="center">
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
